@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/anime_watch/static/css/main.3ad8271a.css",
+    "main.js": "/anime_watch/static/js/main.d7d3538c.js",
+    "static/js/787.86e25a16.chunk.js": "/anime_watch/static/js/787.86e25a16.chunk.js",
+    "service-worker.js": "/anime_watch/service-worker.js",
+    "static/media/ClickSound.mp3": "/anime_watch/static/media/ClickSound.b119b45cbda69085d335.mp3",
+    "index.html": "/anime_watch/index.html",
+    "main.3ad8271a.css.map": "/anime_watch/static/css/main.3ad8271a.css.map",
+    "main.d7d3538c.js.map": "/anime_watch/static/js/main.d7d3538c.js.map",
+    "787.86e25a16.chunk.js.map": "/anime_watch/static/js/787.86e25a16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ad8271a.css",
+    "static/js/main.d7d3538c.js"
+  ]
+}
