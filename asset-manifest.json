@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/anime_watch/static/css/main.4b05affb.css",
-    "main.js": "/anime_watch/static/js/main.df72d82b.js",
+    "main.css": "/anime_watch/static/css/main.fa7a84a4.css",
+    "main.js": "/anime_watch/static/js/main.7cf226cc.js",
     "static/js/845.2df6db8d.chunk.js": "/anime_watch/static/js/845.2df6db8d.chunk.js",
     "static/js/787.86e25a16.chunk.js": "/anime_watch/static/js/787.86e25a16.chunk.js",
     "service-worker.js": "/anime_watch/service-worker.js",
     "static/media/ClickSound.mp3": "/anime_watch/static/media/ClickSound.b119b45cbda69085d335.mp3",
     "index.html": "/anime_watch/index.html",
-    "main.4b05affb.css.map": "/anime_watch/static/css/main.4b05affb.css.map",
-    "main.df72d82b.js.map": "/anime_watch/static/js/main.df72d82b.js.map",
+    "main.fa7a84a4.css.map": "/anime_watch/static/css/main.fa7a84a4.css.map",
+    "main.7cf226cc.js.map": "/anime_watch/static/js/main.7cf226cc.js.map",
     "845.2df6db8d.chunk.js.map": "/anime_watch/static/js/845.2df6db8d.chunk.js.map",
     "787.86e25a16.chunk.js.map": "/anime_watch/static/js/787.86e25a16.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b05affb.css",
-    "static/js/main.df72d82b.js"
+    "static/css/main.fa7a84a4.css",
+    "static/js/main.7cf226cc.js"
   ]
 }
